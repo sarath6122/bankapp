@@ -1,0 +1,45 @@
+/* body{
+    background-image: url(./images/clr.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150%;
+   
+} */
+form{
+text-align: center;
+/* margin-top: 180px; */
+margin-top: 200px;
+padding: 40px 20px 40px 20px;
+background-image: url(../../assets/images/kkkk.webp);
+background-position: cover;
+
+
+
+}
+img{
+    width: 50px;
+    border-radius: 20px;
+    
+   
+}
+
+
+
+input{
+    box-shadow: 50px;
+    text-decoration: solid;
+}
+button{
+    margin-left: -9%;
+
+}
+#b{
+    margin-left: -40px;
+}
+h6:hover{
+    color: blue;
+    
+}
+
+  
+
